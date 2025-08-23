@@ -139,8 +139,8 @@ Areas I want to continue focusing on in future projects:
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- GitHub - [@yourusername](https://github.com/alatise001)
+- Frontend Mentor - [@alatise001](https://www.frontendmentor.io/profile/alatise001)
+- GitHub - [@alatise001](https://github.com/alatise001)
 
 ## Acknowledgments
 
