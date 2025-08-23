@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [GitHub Repository](https://github.com/yourusername/interactive-card-form)
-- Live Site URL: [Live Demo](https://your-live-site-url.com)
+- Solution URL: [GitHub Repository](https://github.com/alatise001/interractive_card?tab=readme-ov-file)
+- Live Site URL: [Live Demo](https://interractive-card.vercel.app/)
 
 ## My process
 
@@ -139,10 +139,8 @@ Areas I want to continue focusing on in future projects:
 
 ## Author
 
-- Website - [Your Name](https://www.your-portfolio-site.com)
 - Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- GitHub - [@yourusername](https://github.com/yourusername)
-- LinkedIn - [Your Name](https://www.linkedin.com/in/yourprofile)
+- GitHub - [@yourusername](https://github.com/alatise001)
 
 ## Acknowledgments
 
